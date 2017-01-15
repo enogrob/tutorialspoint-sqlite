@@ -20,8 +20,8 @@ SQLite Tutorial
 [x] Overview
 [x] Installation
 [x] Commands
-[ ] Syntax
-[ ] Data Types
+[x] Syntax
+[x] Data Types
 [ ] Create Database
 [ ] Attach Database
 [ ] Detach Database
