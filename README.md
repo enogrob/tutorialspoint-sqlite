@@ -22,9 +22,9 @@ SQLite Tutorial
 [x] Commands
 [x] Syntax
 [x] Data Types
-[ ] Create Database
-[ ] Attach Database
-[ ] Detach Database
+[x] Create Database
+[x] Attach Database
+[x] Detach Database
 [ ] Create Table
 [ ] Drop Table
 [ ] Insert Query
